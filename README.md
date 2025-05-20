@@ -57,6 +57,6 @@ Vulnerabilities by severity.
 
 Incident response actions.
 
-##Simulated Attack Scenario##:
+## Simulated Attack Scenario ##:
 
 Simulate an attack on your local network (e.g., using tools like Metasploit or Atomic Red Team) to test your Wazuh setup.
